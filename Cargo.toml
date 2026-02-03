@@ -292,7 +292,7 @@ tikv-jemallocator = "0.6"
 
 # misc
 auto_impl = "1"
-bytes = "1.10"
+bytes = "1.11"
 walkdir = "2"
 prettyplease = "0.2"
 base64 = "0.22"
